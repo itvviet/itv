@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+	<addon id="repository.itvviet.itv" name="iTV Viet iTV Repository" version="3.0" provider-name="iTV Viet">
+		<extension point="xbmc.addon.repository" name="iTV Viet iTV Repository">
+			<info compressed="false">https://raw.githubusercontent.com/itvviet/itv/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/itvviet/itv/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/itvviet/itv/master/zips</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>iTV Viet iTV Repository</summary>
+			<description>iTV Viet iTV Repository</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
+</addons>
